@@ -34,7 +34,6 @@
 | **Cloud Platforms** | AWS (S3, Glue, Athena, QuickSight, EC2) · GCP (Cloud Storage, BigQuery, Dataflow) |
 | **Data Visualization** | Power BI · Tableau · Matplotlib · Seaborn · Plotly |
 | **Murex Technologies** | MX.3 · DataMart · MxML Exchange · MDCS · MDRS · Dynamic Tables · Feeders & Batch of Feeders · Reporting Tables · Data Extractions |
-| **Data Integration & Mapping** | XML · XSLT · Formula-Based Mapping · Field Mapping · File Import/Export Workflows · Trade Data Processing |
 | **Scripting & DevOps** | Unix/Linux · Bash Shell Scripting · Git · GitHub |
 | **Functional Expertise** | Trade Lifecycle Management · Trade Processing · Workflow Configuration · Regulatory Reporting · Capital Markets Products · Murex DataMart Reporting |
 
