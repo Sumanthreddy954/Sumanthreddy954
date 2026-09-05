@@ -42,6 +42,7 @@
 
 ## 🔭 Currently
 
-- **Building** end-to-end data + automation systems (see Projects)
-- **Working** in Murex configuration & cap-markets integration
-- **Open to** internships and freelance work
+- **🏗️ Building** — end-to-end data + automation systems (see Projects), plus this portfolio at [sumanth-dev.vercel.app](https://sumanth-dev.vercel.app)
+- **💼 Working** — Murex configuration, DataMart reporting, and capital-markets integration
+- **📈 Learning** — deepening Python automation, Airflow orchestration, and cloud data engineering (GCP · AWS)
+- **🤝 Open to** — internships, freelance, and data / fintech engineering roles
