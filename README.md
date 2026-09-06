@@ -27,15 +27,15 @@
 
 ## 🧰 Technical Skills
 
-| Area | Skills |
+| **Area** | **Skills** |
 | --- | --- |
-| **Languages & Databases** | Python · SQL · Oracle SQL · MySQL · C |
-| **Big Data & Processing** | Apache Spark · PySpark · Spark SQL · Databricks · NumPy · Pandas · ETL Development |
-| **Cloud Platforms** | AWS (S3, Glue, Athena, QuickSight, EC2) · GCP (Cloud Storage, BigQuery, Dataflow) |
-| **Data Visualization** | Power BI · Tableau · Matplotlib · Seaborn · Plotly |
-| **Murex Technologies** | MX.3 · DataMart · MxML Exchange · MDCS · MDRS · Dynamic Tables · Feeders & Batch of Feeders · Reporting Tables · Data Extractions |
-| **Scripting & DevOps** | Unix/Linux · Bash Shell Scripting · Git · GitHub |
-| **Functional Expertise** | Trade Lifecycle Management · Trade Processing · Workflow Configuration · Regulatory Reporting · Capital Markets Products · Murex DataMart Reporting |
+| **Languages & Databases** | Python · SQL · Oracle SQL · MySQL |
+| **Data Engineering & Big Data** | Apache Spark · Databricks · ETL/ELT · Data Pipelines · Pandas · NumPy |
+| **Cloud & Data Platforms** | AWS (S3 · Glue · Athena · EC2) · GCP (Cloud Storage · BigQuery · Dataflow) |
+| **Data Visualization & BI** | Power BI · Tableau · QuickSight · Matplotlib · Plotly |
+| **Murex Technologies** | MX.3 · DataMart · MxML Exchange · MDCS · MDRS · Dynamic Tables · Feeders & Batch of Feeders · Reporting Tables · Data Extraction |
+| **Scripting & DevOps** | Unix/Linux · Bash · Git · GitHub |
+| **Functional Expertise** | Trade Lifecycle Management · Trade Processing · Workflow Configuration · Regulatory Reporting · Capital Markets Products |
 
 ---
 
